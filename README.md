@@ -2,9 +2,13 @@
 
 ## Team member names and majors
 Seth Linares - Computer Science
+
 David Mumford - Computer Science
+
 Jared Linares - Computer Science
+
 Kristin Thumstedter - Computer Science
+
 Brian Anderson - Computer Science
 
 ### Our Goal

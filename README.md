@@ -13,6 +13,8 @@ TODO: Graph of attendance for a LDS location over a month
 
 TODO: Graph of temple attendance vs. brand attendance David
 
+TODO: Costco performance near temples vs. not near temples
+
 #### Explanation of the Census data
 
 (Brian) Relationship between Census income and temple usage

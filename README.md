@@ -13,5 +13,5 @@
 
 ### Additional data that you will leverage beyond that found in the SafeGraph (if any)
 
-## What Constitutes Success
+### What Constitutes Success
 

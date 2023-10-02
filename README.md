@@ -17,7 +17,7 @@ TODO: Costco performance near temples vs. not near temples
 
 #### Explanation of the Census data
 
-(Brian) Relationship between Census income and temple usage
+TODO (Brian): Relationship between Census income and temple usage
 
 ### Additional data that you will leverage beyond that found in the SafeGraph (if any)
 

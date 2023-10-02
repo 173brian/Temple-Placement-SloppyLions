@@ -11,7 +11,7 @@ To find correlations for temple announcements, our team combined the Safegraph p
 
 TODO: Graph of attendance for a LDS location over a month
 
-TODO: Graph of temple attendance vs. brand attendance 
+TODO: Graph of temple attendance vs. brand attendance David
 
 #### Explanation of the Census data
 

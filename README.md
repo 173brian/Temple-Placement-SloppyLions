@@ -23,4 +23,4 @@ TODO (Brian): Relationship between Census income and temple usage
 
 ### What Constitutes Success
 
-Our teams have identified some key aspects to indicate that our data manipulation and trend tracking were correct and could be used to predict future temples. We will know if it is successful if it predicts future and recently announced temples.   
+Our team will reach success upon finding correlations between the presence of temples and indicators found in brand attendance data, or census data. We will be able to map presence of these correlations.

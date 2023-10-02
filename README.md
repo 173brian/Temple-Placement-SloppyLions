@@ -1,6 +1,6 @@
 ﻿# Temple-Placement-SloppyLions
 
-## Team member names and majors
+## Team Names and Majors
 | Seth Linares - Computer Science | David Mumford - Computer Science | Jared Linares - Computer Science | Kristin Thumstedter - Computer Science | Brian Anderson - Computer Science
 
 ### Our Goal

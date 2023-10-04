@@ -14,6 +14,7 @@ To meet our goal we will be leveraging data from several sources including Safeg
 This is the graph comparing the mean hourly usage patterns of church buildings in Montpelier and Burley from 2019. While the data used to create this graph was collected before the announcement of the temple in either location, it provides a good example of what attendance is like in areas that will have a temple announced some time in the near future. Both have almost identical usage patterns indicating that there could be a non-spurious correlation between mean visits and potential temple announcements.
 
 ![Brand Differences](https://github.com/173brian/Temple-Placement-SloppyLions/blob/main/proposal_visualizations/Brand_differences.png)
+This is a comparison of what brands people of each future temple location prefer.
 
 ### Make our Analysis Marketable
 

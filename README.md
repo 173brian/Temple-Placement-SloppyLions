@@ -8,8 +8,6 @@ To find correlations for temple announcements and the establishment of businesse
 
 We believe that the best approach to machine learning for this project is to use a mix of neural networks, specifically deep neural networks (DNNs) and Long Short-Term Memory networks (LSTMs). By combining Safegraph pattern data with census and Zillow housing data, we have a rich set of information that changes over time and space. DNNs are good at finding complex patterns in large amounts of data, which can help us understand the spatial and economic factors around temple locations. On the other hand, LSTMs are great for analyzing data over time, which can help us see how temple attendance and regional economic growth change. Using DNNs, we can dig into the spatial and economic data to find patterns around existing temples, while LSTMs can help us understand the time-related patterns. Together, these neural networks can provide a strong foundation for predicting where new temples might be needed based on past and present trends.
 
-When it comes to 
-
 ### How We Will Use The Data To Meet Our Goal
 To meet our goal we will be leveraging data from several sources including Safegraph data, Census data, and Zillow data.
 

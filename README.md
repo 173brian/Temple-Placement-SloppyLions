@@ -27,7 +27,7 @@ Census data is a valuable means by which we can understand information about an 
 
 ![Idaho Falls Incomes](https://github.com/173brian/Temple-Placement-SloppyLions/blob/main/proposal_visualizations/Idaho%20Falls%20Income.png))
 ![Pocatello Incomes](https://github.com/173brian/Temple-Placement-SloppyLions/blob/main/proposal_visualizations/Pocatello%20Income.png)
-![Comparison Betweeen Incomes](https://github.com/173brian/Temple-Placement-SloppyLions/blob/main/proposal_visualizations/comparisons.png)
+![Comparison Betweeen Incomes](https://github.com/173brian/Temple-Placement-SloppyLions/blob/main/proposal_visualizations/Comparison.png)
 
 ### Additional data that you will leverage beyond that found in the SafeGraph (if any)
 Proximity to major retailers, such as Costco, can offer valuable insights into an area's economic vitality. Large retailers often establish locations based on thorough market analyses, ensuring the region's economic health and consumer demand align with their business goals. Following this logic, the presence of such stores may indicate a prospering economic landscape, and the potential of new temples.

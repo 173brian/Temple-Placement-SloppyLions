@@ -11,7 +11,15 @@ To find correlations for temple announcements, our team combined the Safegraph p
 
 TODO: Graph of attendance for a LDS location over a month
 
-TODO: Graph of temple attendance vs. brand attendance David
+### Make our Analysis Marketable
+
+Part of our plan for the project is to be able to market our final temple county predictions to specific groups. To do this we want to use some of the features we have engineered to find correlations between temple and these types of organizations. For example, below we have a sample of looking for correlation between the Costco in Boise, ID and the Boise Idaho Temple. These charts are very basic and show a weak correlation currently. We want to look for more concrete evidence during the course of our project to help be able to market our overall Analysis.
+
+![Costco Visitors](https://github.com/173brian/Temple-Placement-SloppyLions/blob/main/proposal_visualizations/costco_visitors.png)
+
+![Temple Visitors](https://github.com/173brian/Temple-Placement-SloppyLions/blob/main/proposal_visualizations/temple_visitors.png)
+
+We understand that the big ticket item of our analysis is the counties that we think are likely to be locations for our next temples. Yet, what good is that information if we can not convince people that it is important to know?
 
 TODO: Costco performance near temples vs. not near temples
 

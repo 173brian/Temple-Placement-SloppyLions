@@ -4,8 +4,10 @@
 | Seth Linares - Computer Science | David Mumford - Computer Science | Jared Linares - Computer Science | Kristin Thumstedter - Computer Science | Brian Anderson - Computer Science
 
 ### Our Goal
-To find correlations for temple announcements, our team combined the Safegraph pattern data and the census data to observe current operating temple attendance traffic. If there is a trend with certain temples having high usage and then a new temple to help relieve the traffic stress, we could anticipate that the brethren had a higher desire to create another temple in that area. The census data helps to create an estimated distance to the temple and each county's traffic to that particular temple.
+To find correlations for temple announcements and the establishment of businesses, our team combined the Safegraph pattern data and the census data to observe current operating temple attendance traffic. If there is a trend with certain temples having high usage and then a new temple to help relieve the traffic stress, we could anticipate that the brethren had a higher desire to create another temple in that area. If there are patterns around temples and the economic growth of regions we will be able to use this information to predict locations for future buisness venues. The census data helps to create an estimated distance to the temple and each county's traffic to that particular temple.
+
 ### How We Will Use The Data To Meet Our Goal
+To meet our goal we will be leveraging data from several sources including Safegraph data, Census data, and Zillow data.
 
 #### Explanation of the current SafeGraph data format and some descriptive visualizations
 ![graph-attendance](proposal_visualizations/burley_vs_mont.png)
@@ -44,4 +46,4 @@ We believe that the real estate trends are hugely important indicators of the po
 
 ### What Constitutes Success
 
-Our team will reach success upon finding correlations between the presence of temples and indicators found in brand attendance data, or census data. We will be able to map presence of these correlations.
+Our team will reach success upon finding correlations between the presence of temples and indicators found in brand attendance data, or census data. We will be able to map presence of these correlations and the most likely locations for future temples and businesses.

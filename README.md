@@ -29,7 +29,7 @@ Census data is a valuable means by which we can understand information about an 
 
 ![Comparison Betweeen Incomes](https://github.com/173brian/Temple-Placement-SloppyLions/blob/main/proposal_visualizations/Comparison.png)
 
-### Additional data that you will leverage beyond that found in the SafeGraph (if any)
+### The Costco Conspiracy
 Proximity to major retailers, such as Costco, can offer valuable insights into an area's economic vitality. Large retailers often establish locations based on thorough market analyses, ensuring the region's economic health and consumer demand align with their business goals. Following this logic, the presence of such stores may indicate a prospering economic landscape, and the potential of new temples.
 
 The Church of Jesus Christ of Latter-day Saints has historically shown a pattern of establishing temples in economically stable regions (at least in the US & Canada). This observation can be used to hypothesize potential locations for future temples. For instance, examining the locations of existing temples in relation to major retailers can provide valuable insights. As an example of what this might look like, we plotted the geographic coordinates of the existing Rexburg Temple against the newly announced temple in Burley, ID, emphasizing their proximity to prominent retail stores like Costco. In our findings we've found that their distances to major retailers are relatively equidistant (give or take a few miles or kms). This information implies a few key factors including a sizeable population, sizeable member base, and a growing local economy.

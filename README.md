@@ -35,6 +35,11 @@ The Church of Jesus Christ of Latter-day Saints has historically shown a pattern
 ![map-image](/proposal_visualizations/distances.PNG)
 ![Very-Rough-graph](/proposal_visualizations/output.png)
 
+We believe that the real estate trends are hugely important indicators of the potential for a region to be given a temple. We have used Zillow's free research data to analyze the growth metrics for all metropolitan areas in the state of Idaho. Although we are admittedly constrained by the limitations of Zillow's public data, our preliminary analysis revealed a consistent pattern the growth trends of metropolitan areas with both existing temples and proposals for new ones. The key takeaway is that these temple regions exhibit substantial YoY% and QoQ% growth. This consistent uptick in real estate values underscores the potential economic vitality of these areas. We are proposing that when predicting which areas will be declared viable as temple sites, the real estate trends should be considered as a key indicator.
+
+![QoQ](/proposal_visualizations/QoQ.png)
+![YoY](/proposal_visualizations/YoY.png)
+
 ### What Constitutes Success
 
 Our team will reach success upon finding correlations between the presence of temples and indicators found in brand attendance data, or census data. We will be able to map presence of these correlations.

@@ -32,13 +32,13 @@ Proximity to major retailers, such as Costco, can offer valuable insights into a
 
 The Church of Jesus Christ of Latter-day Saints has historically shown a pattern of establishing temples in economically stable regions (at least in the US & Canada). This observation can be used to hypothesize potential locations for future temples. For instance, examining the locations of existing temples in relation to major retailers can provide valuable insights. As an example of what this might look like, we plotted the geographic coordinates of the existing Rexburg Temple against the newly announced temple in Burley, ID, emphasizing their proximity to prominent retail stores like Costco. In our findings we've found that their distances to major retailers are relatively equidistant (give or take a few miles or kms). This information implies a few key factors including a sizeable population, sizeable member base, and a growing local economy.
 
-![map-image](/proposal_visualizations/distances.PNG)
-![Very-Rough-graph](/proposal_visualizations/output.png)
+![map-image](https://github.com/173brian/Temple-Placement-SloppyLions/blob/main/proposal_visualizations/distances.PNG)
+![Very-Rough-graph](https://github.com/173brian/Temple-Placement-SloppyLions/blob/main/proposal_visualizations/output.png)
 
 We believe that the real estate trends are hugely important indicators of the potential for a region to be given a temple. We have used Zillow's free research data to analyze the growth metrics for all metropolitan areas in the state of Idaho. Although we are admittedly constrained by the limitations of Zillow's public data, our preliminary analysis revealed a consistent pattern the growth trends of metropolitan areas with both existing temples and proposals for new ones. The key takeaway is that these temple regions exhibit substantial YoY% and QoQ% growth. This consistent uptick in real estate values underscores the potential economic vitality of these areas. We are proposing that when predicting which areas will be declared viable as temple sites, the real estate trends should be considered as a key indicator.
 
-![QoQ](/proposal_visualizations/QoQ.png)
-![YoY](/proposal_visualizations/YoY.png)
+![QoQ](https://github.com/173brian/Temple-Placement-SloppyLions/blob/main/proposal_visualizations/QoQ.png)
+![YoY](https://github.com/173brian/Temple-Placement-SloppyLions/blob/main/proposal_visualizations/YoY.png)
 
 ### What Constitutes Success
 

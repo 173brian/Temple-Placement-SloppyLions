@@ -9,7 +9,7 @@ To find correlations for temple announcements, our team combined the Safegraph p
 
 #### Explanation of the current SafeGraph data format and some descriptive visualizations
 ![graph-attendance](proposal_visualizations/burley_vs_mont.png)
-This is the graph comparing the mean hourly usage patterns of church buildings in Montpelier and Burley from 2019. While the data used to create this graph was collected before the announcement of the temple in either location, it provides a good example of what attendance is like in areas that will have a temple announced some time in the near future. Both have almost identical usage patterns indicating that areas there could be a non-spurious correlation between mean visits and potential temple announcements.
+This is the graph comparing the mean hourly usage patterns of church buildings in Montpelier and Burley from 2019. While the data used to create this graph was collected before the announcement of the temple in either location, it provides a good example of what attendance is like in areas that will have a temple announced some time in the near future. Both have almost identical usage patterns indicating that there could be a non-spurious correlation between mean visits and potential temple announcements.
 
 ### Make our Analysis Marketable
 

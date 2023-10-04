@@ -21,7 +21,6 @@ Part of our plan for the project is to be able to market our final temple county
 
 We understand that the big ticket item of our analysis is the counties that we think are likely to be locations for our next temples. Yet, what good is that information if we can not convince people that it is important to know?
 
-TODO: Costco performance near temples vs. not near temples
 
 #### Explanation of the Census data
 

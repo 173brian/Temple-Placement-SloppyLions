@@ -1,7 +1,7 @@
 ﻿# Temple-Placement-SloppyLions
 
 ## Team Names and Majors
-| Seth Linares - Computer Science | David Mumford - Computer Science | Jared Linares - Computer Science | Kristin Thumstedter - Computer Science | Brian Anderson - Computer Science
+| Seth Linares - Computer Science | David Mumford - Computer Science | Jared Linares - Computer Science | Kristin Thumstedter - Computer Science | Brian Anderson - Computer Science |
 
 ### Our Goal
 To find correlations for temple announcements and the establishment of businesses, our team combined the Safegraph pattern data and the census data to observe current operating temple attendance traffic. If there is a trend with certain temples having high usage and then a new temple to help relieve the traffic stress, we could anticipate that the brethren had a higher desire to create another temple in that area. If there are patterns around temples and the economic growth of regions we will be able to use this information to predict locations for future buisness venues. The census data helps to create an estimated distance to the temple and each county's traffic to that particular temple.

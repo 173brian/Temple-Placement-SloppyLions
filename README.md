@@ -23,8 +23,11 @@ We understand that the big ticket item of our analysis is the counties that we t
 
 
 #### Explanation of the Census data
+Census data is a valuable means by which we can understand information about an areas economic standing over time. By making use of census data we can understand how "rich" an area is in terms of resources, both financial as well as material. Understanding these resources and their availability is crucial in helping us to make predictions regarding the placement of businesses, and we will be searching for the correlation with temples as well. By making use of this information it will be possible to understand general patterns in the U.S. About where businesses and temple related business is most likely to succeed, and help us to understand more fully the connection valuable resources play in the establishment of a temple.
 
-TODO (Brian): Relationship between Census income and temple usage
+![Idaho Falls Incomes](https://github.com/173brian/Temple-Placement-SloppyLions/blob/main/proposal_visualizations/Idaho%20Falls%20Income.png))
+![Pocatello Incomes](https://github.com/173brian/Temple-Placement-SloppyLions/blob/main/proposal_visualizations/Pocatello%20Income.png)
+![Comparison Betweeen Incomes](https://github.com/173brian/Temple-Placement-SloppyLions/blob/main/proposal_visualizations/comparisons.png)
 
 ### Additional data that you will leverage beyond that found in the SafeGraph (if any)
 Proximity to major retailers, such as Costco, can offer valuable insights into an area's economic vitality. Large retailers often establish locations based on thorough market analyses, ensuring the region's economic health and consumer demand align with their business goals. Following this logic, the presence of such stores may indicate a prospering economic landscape, and the potential of new temples.

@@ -1,7 +1,7 @@
 ﻿# Temple-Placement-SloppyLions
 
 ## Team Names and Majors
-| Seth Linares - Computer Science | David Mumford - Computer Science | Jared Linares - Computer Science | Kristin Thumstedter - Computer Science | Brian Anderson - Computer Science
+| Seth Linares - Computer Science | David Mumford - Computer Science | Jared Linares - Computer Science | Kristin Thumstedter - Computer Science | Brian Anderson - Computer Science |
 
 ### Our Goal
 To find correlations for temple announcements and the establishment of businesses, our team combined the Safegraph pattern data and the census data to observe current operating temple attendance traffic. If there is a trend with certain temples having high usage and then a new temple to help relieve the traffic stress, we could anticipate that the brethren had a higher desire to create another temple in that area. If there are patterns around temples and the economic growth of regions we will be able to use this information to predict locations for future buisness venues. The census data helps to create an estimated distance to the temple and each county's traffic to that particular temple.
@@ -29,7 +29,7 @@ Census data is a valuable means by which we can understand information about an 
 
 ![Comparison Betweeen Incomes](https://github.com/173brian/Temple-Placement-SloppyLions/blob/main/proposal_visualizations/Comparison.png)
 
-### Additional data that you will leverage beyond that found in the SafeGraph (if any)
+### The Costco Conspiracy
 Proximity to major retailers, such as Costco, can offer valuable insights into an area's economic vitality. Large retailers often establish locations based on thorough market analyses, ensuring the region's economic health and consumer demand align with their business goals. Following this logic, the presence of such stores may indicate a prospering economic landscape, and the potential of new temples.
 
 The Church of Jesus Christ of Latter-day Saints has historically shown a pattern of establishing temples in economically stable regions (at least in the US & Canada). This observation can be used to hypothesize potential locations for future temples. For instance, examining the locations of existing temples in relation to major retailers can provide valuable insights. As an example of what this might look like, we plotted the geographic coordinates of the existing Rexburg Temple against the newly announced temple in Burley, ID, emphasizing their proximity to prominent retail stores like Costco. In our findings we've found that their distances to major retailers are relatively equidistant (give or take a few miles or kms). This information implies a few key factors including a sizeable population, sizeable member base, and a growing local economy.
